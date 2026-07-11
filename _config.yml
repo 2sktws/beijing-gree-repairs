@@ -1,0 +1,8 @@
+title: 北京格力GREE中央空调维修服务中心
+description: 北京格力GREE中央空调维修、热水器维修、壁挂炉维修，24小时电话400-811-5288，30分钟上门，修不好不收费
+theme: minima
+url: https://2sktws.github.io/beijing-gree-repairs
+baseurl: /beijing-gree-repairs
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
