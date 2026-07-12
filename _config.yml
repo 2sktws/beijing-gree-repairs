@@ -1,8 +1,30 @@
-title: 北京格力GREE中央空调维修服务中心
-description: 北京格力GREE中央空调维修、热水器维修、壁挂炉维修，24小时电话400-811-5288，30分钟上门，修不好不收费
-theme: minima
-url: https://2sktws.github.io/beijing-gree-repairs
-baseurl: "/beijing-daikin-repairs"
+# ==========================================
+# 北京格力GREE 子站配置
+# ==========================================
+
+title: "北京格力GREE中央空调维修服务中心"
+description: "北京格力GREE空调维修，24小时电话400-811-5288，30分钟上门，修不好不收费"
+author: "大方瑞碧家电维修经营部"
+
+url: "https://2sktws.github.io"
+baseurl: "/beijing-gree-repairs"
+
+permalink: /:slug/
+
+encoding: utf-8
+timezone: Asia/Shanghai
+lang: zh-CN
+
+markdown: kramdown
+
+exclude:
+  - README.md
+  - llms.txt
+  - robots.txt
+
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
+
+bing_site_verification: "CF04D638C95C3A5FCC50DF1B474F2C38"
+# google_site_verification: "你的Google验证码"
