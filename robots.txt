@@ -1,0 +1,21 @@
+User-agent: *
+Allow: /
+
+# Sitemap 指向本子站
+Sitemap: https://2sktws.github.io/beijing-gree-repairs/sitemap.xml
+
+# AI 爬虫特别指引
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
