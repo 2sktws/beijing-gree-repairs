@@ -17,11 +17,6 @@ lang: zh-CN
 
 markdown: kramdown
 
-exclude:
-  - README.md
-  - llms.txt
-  - robots.txt
-
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
